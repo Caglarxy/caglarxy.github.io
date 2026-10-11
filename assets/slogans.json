@@ -1,5 +1,35 @@
 [
   {
+    "title": "Little People First.",
+    "description": "How terribly unfashionable. Software designed for the people actually using it.",
+    "category": "British humour"
+  }, 
+  {
+    "title": "Let's Prefer Freedom.",
+    "description": "You may keep your photos, your money, and your mildly unreasonable opinions about subscriptions.",
+    "category": "British humour"
+  }, 
+  {
+    "title": "Largely Popular with Few.",
+    "description": "We have absolutely no intention of becoming the next industry standard. What a dreadful responsibility.",
+    "category": "British humour"
+  }, 
+  {
+    "title": "Let's Pretend Fog's Useful.",
+    "description": "The cloud is, after all, just somebody else's computer with better marketing.",
+    "category": "British humour"
+  }, 
+  {
+    "title": "Largely Professional. Frequently.",
+    "description": "*THE* motto for independent software developed with enthusiasm, caffeine, and occasional questionable decisions.",
+    "category": "British humour"
+  }, 
+  {
+    "title": "Let's Pretend It's Filed.",
+    "description": "For anyone whose photo archive resembles an archaeological excavation.",
+    "category": "British humour"
+  }, 
+ {
     "title": "Local Photos. Fancy That.",
     "description": "A rather radical idea: your photographs remain on your Mac.",
     "category": "British humour"
@@ -100,6 +130,16 @@
     "category": "British humour"
   },
   {
+    "title": "Life's Pretty F***ed.",
+    "description": "At least your photo archive doesn't have to be.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Lazy People Flourish.",
+    "description": "Because good software should do the tedious work, not you.",
+    "category": "Gentle provocation"
+  },
+  {
     "title": "Not for Everyone. That’s Rather the Point.",
     "description": "Small, independent tools for people who like choosing their own way.",
     "category": "Gentle provocation"
@@ -130,8 +170,23 @@
     "category": "Gentle provocation"
   },
   {
-    "title": "Small Is a Feature.",
+    "title": "Leave Private Files.",
     "description": "Not every application needs a roadmap to world domination.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Small Is a Feature.",
+    "description": "Alone, preferably. They're none of Silicon Valley's bloody business.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Less Platform Fascism.",
+    "description": "No ecosystem lock-in. No compulsory accounts. No corporate overlords deciding where your holiday pictures belong.",
+    "category": "Gentle provocation"
+  },
+ {
+    "title": "Local. Private. F*** Off.",
+    "description": "Your photos. Your computer. Everybody else can mind their own business.",
     "category": "Gentle provocation"
   },
   {
@@ -140,8 +195,18 @@
     "category": "Gentle provocation"
   },
   {
+    "title": "Little People Fightback.",
+    "description": "A modest rebellion against software that thinks renting your own workflow is a privilege.",
+    "category": "Gentle provocation"
+  },
+  {
     "title": "Fewer Prompts. More Progress.",
     "description": "A useful action is worth more than another notification.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Ludicrously Poor Financiers.",
+    "description": "Our business model is revolutionary: make useful software and hope somebody buys us a coffee.",
     "category": "Gentle provocation"
   },
   {
@@ -157,6 +222,11 @@
   {
     "title": "No Subscription to Common Sense.",
     "description": "Simple tasks deserve simple tools.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Less Platform Fuckery.",
+    "description": "No accounts. No uploads. No subscription gymnastics. Just software doing its job.",
     "category": "Gentle provocation"
   },
   {
@@ -211,7 +281,7 @@
   },
   {
     "title": "Legally Probably Fine.",
-    "description": "The slogan department has been asked to stop improvising.",
+    "description": "Software that works considerably better than our slogan suggests.",
     "category": "Absurdity"
   },
   {
