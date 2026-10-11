@@ -1,9 +1,7 @@
-LPF.one GitHub Pages starter
+LPF.one website V2
 
-Upload ALL contents of this folder (not the folder itself) to the root of lespetitesfugues/lespetitesfugues.github.io.
+Adds About LPF.one and Support pages and links in the shared navigation.
 
-GitHub web UI: open repository → Add file → Upload files → drag index.html, organizer.html, explorer.html, style.css, slogans.js and the assets folder (or all files maintaining assets/ paths) → Commit changes.
+To update GitHub Pages: unzip, open your repository, choose Add file > Upload files, and upload all files and the assets folder. Confirm overwriting the existing files by committing the changes. index.html must remain in the repository root.
 
-Test at https://lespetitesfugues.github.io/ . Keep Porkbun DNS unchanged until ready.
-
-The product descriptions are temporary draft text and can be refined later.
+The email link uses info@lpf.one. Verify that this mailbox/forwarding address is active before publishing.
