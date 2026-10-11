@@ -10,7 +10,7 @@
 (() => {
   'use strict';
 
-  const measurementId = 'G-XXXXXXXXXX'; // <-- Change this one value.
+  const measurementId = 'G-12NX3SR01V'; // <-- Change this one value.
 
   if (measurementId === 'G-XXXXXXXXXX') {
     return; // Analytics is intentionally disabled until configured.
