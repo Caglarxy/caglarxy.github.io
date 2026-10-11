@@ -1,0 +1,10 @@
+LPF.one slogan collection — 106 pairs
+
+Edit assets/slogans.json to add or change entries. Each entry has a title, description and optional category.
+
+The homepage ignores category; it shows the title and description together.
+Categories: British humour, Gentle provocation, Absurdity, Digital independence, Photography, LPF essentials.
+
+The deterministic daily shuffle uses Swiss calendar days. Changing the number of entries changes the rotation.
+
+Upload the complete contents of this ZIP to the repository root, replacing existing files.

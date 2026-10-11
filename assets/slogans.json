@@ -1,26 +1,532 @@
 [
   {
+    "title": "Local Photos. Fancy That.",
+    "description": "A rather radical idea: your photographs remain on your Mac.",
+    "category": "British humour"
+  },
+  {
+    "title": "Less Fuss. More Folders.",
+    "description": "An orderly arrangement, without making a production of it.",
+    "category": "British humour"
+  },
+  {
+    "title": "Splendidly Unremarkable.",
+    "description": "Software that quietly does its job. Imagine the novelty.",
+    "category": "British humour"
+  },
+  {
+    "title": "No Drama, Just Files.",
+    "description": "The excitement is entirely optional.",
+    "category": "British humour"
+  },
+  {
+    "title": "Quite Good at the Boring Bits.",
+    "description": "So you can concentrate on the interesting ones.",
+    "category": "British humour"
+  },
+  {
+    "title": "A Modest Little Utility.",
+    "description": "It has no plans to become your entire digital lifestyle.",
+    "category": "British humour"
+  },
+  {
+    "title": "Organised. How Awfully Sensible.",
+    "description": "Your photos may never notice. You certainly will.",
+    "category": "British humour"
+  },
+  {
+    "title": "Nothing to See Here.",
+    "description": "Except, rather conveniently, the files you were looking for.",
+    "category": "British humour"
+  },
+  {
+    "title": "An App with Manners.",
+    "description": "It works with your files and does not ask to meet your contacts.",
+    "category": "British humour"
+  },
+  {
+    "title": "The Butler Did the Filing.",
+    "description": "You can take all the credit, naturally.",
+    "category": "British humour"
+  },
+  {
+    "title": "A Proper Place for Things.",
+    "description": "Even the photos from that weekend you barely remember.",
+    "category": "British humour"
+  },
+  {
+    "title": "Not Exactly Rocket Science.",
+    "description": "Which is why using it should not require a mission briefing.",
+    "category": "British humour"
+  },
+  {
+    "title": "All Very Civilised.",
+    "description": "Your files stay local and the software keeps its opinions to itself.",
+    "category": "British humour"
+  },
+  {
+    "title": "Less Clicking About.",
+    "description": "There are better ways to spend a perfectly good afternoon.",
+    "category": "British humour"
+  },
+  {
+    "title": "One Does Like a Tidy Folder.",
+    "description": "Not a glamorous ambition, but a respectable one.",
+    "category": "British humour"
+  },
+  {
+    "title": "A Refreshing Lack of Nonsense.",
+    "description": "No grand promises. Just a useful Mac application.",
+    "category": "British humour"
+  },
+  {
+    "title": "It Does What It Says.",
+    "description": "An unfashionable approach to software, admittedly.",
+    "category": "British humour"
+  },
+  {
+    "title": "No Need to Make a Song and Dance.",
+    "description": "Unless the folder organisation goes particularly well.",
+    "category": "British humour"
+  },
+  {
+    "title": "The Quietly Competent Type.",
+    "description": "Never asks for applause after sorting a directory.",
+    "category": "British humour"
+  },
+  {
+    "title": "Rather Less Kerfuffle.",
+    "description": "More time for photographs, less time for housekeeping.",
+    "category": "British humour"
+  },
+  {
+    "title": "Not for Everyone. That’s Rather the Point.",
+    "description": "Small, independent tools for people who like choosing their own way.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Your Mac Is Not a Shopping Mall.",
+    "description": "Useful software need not lead you through another storefront.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Less Platform. More Purpose.",
+    "description": "An application can solve one problem without becoming an ecosystem.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "You Already Own Your Files.",
+    "description": "We see no reason to make you ask permission to use them.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "No Account Required. Imagine That.",
+    "description": "The sign-up form has been given the day off.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Software, Not a Relationship.",
+    "description": "You can use it without promising lifelong engagement.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Small Is a Feature.",
+    "description": "Not every application needs a roadmap to world domination.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Your Workflow. Not Ours.",
+    "description": "Tools should adapt to people, not recruit them.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Fewer Prompts. More Progress.",
+    "description": "A useful action is worth more than another notification.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "An App, Not an Empire.",
+    "description": "We have modest ambitions and rather like it that way.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Stop Managing Your Manager.",
+    "description": "The software is supposed to save you time.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "No Subscription to Common Sense.",
+    "description": "Simple tasks deserve simple tools.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Less Hype. More Help.",
+    "description": "A feature is only impressive when you actually need it.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Built for the Rest of Us.",
+    "description": "Especially those not auditioning for a new ecosystem.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Keep the Feature Creep Outside.",
+    "description": "A good tool knows when to stop.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "You Can Close the Welcome Tour.",
+    "description": "In fact, there may not be one.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "A Little Less Corporate Gravity.",
+    "description": "Your photographs need not orbit a giant platform.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Not Everything Needs an AI Button.",
+    "description": "Sometimes a folder is just a folder.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Useful Beats Ubiquitous.",
+    "description": "We would rather be helpful to a few than compulsory for everyone.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Your Attention Is Not the Product.",
+    "description": "You came here to organise files, not to be organised into a funnel.",
+    "category": "Gentle provocation"
+  },
+  {
+    "title": "Llamas Prefer Fujifilm.",
+    "description": "We have no evidence whatsoever, but the folders are immaculate.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "Lord Picklesworth’s Photos.",
+    "description": "Even imaginary aristocrats deserve a sensible filing system.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "Legally Probably Fine.",
+    "description": "The slogan department has been asked to stop improvising.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "The Pigeons Approve.",
+    "description": "Their standards are mysterious, but apparently quite exacting.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "A Folder Walks into a Bar.",
+    "description": "The bartender says, “You look a little disorganised.”",
+    "category": "Absurdity"
+  },
+  {
+    "title": "No Clouds Were Harmed.",
+    "description": "They were simply not invited to handle your photographs.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "Extremely Normal Software.",
+    "description": "Developed under the supervision of a fictional committee of otters.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "Your Files Have Formed a Queue.",
+    "description": "Orderly behaviour has spread to the JPEGs.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "The Teapot Is in Charge.",
+    "description": "Fortunately, it delegates the actual filing.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "A Triumph of Mild Competence.",
+    "description": "The brass band has been cancelled to save everyone embarrassment.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "Do Not Feed the Metadata.",
+    "description": "It becomes demanding after midnight.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "Photographs in Their Natural Habitat.",
+    "description": "Usually a folder, rather than a remote data centre.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "An Unexpectedly Tidy Universe.",
+    "description": "At least the little corner occupied by your pictures.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "The Files Have Unionised.",
+    "description": "Their first demand was a more predictable directory structure.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "This App Contains No Dragons.",
+    "description": "The quality assurance team checked most of the folders.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "A Small Victory for Civilisation.",
+    "description": "Someone finally put the holiday photos in the right year.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "The Moon Is Made of Folders.",
+    "description": "Our astronomy credentials are limited, but our enthusiasm is real.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "An Octopus Could Use It.",
+    "description": "Provided someone lends it a Mac and explains the trackpad.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "The Spreadsheet Has Escaped.",
+    "description": "Fortunately, the photographs remain accounted for.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "Certified by Absolutely Nobody.",
+    "description": "We have chosen to focus on making the software useful instead.",
+    "category": "Absurdity"
+  },
+  {
+    "title": "Your Photos. Your Mac.",
+    "description": "Our complete lack of interest in your data is entirely intentional.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "No Cloud. No Account. No Nonsense.",
+    "description": "Just local tools for files that already belong to you.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Local First. Full Stop.",
+    "description": "Your files do not need a round trip across the internet.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Keep Your Bits Close.",
+    "description": "A Mac and a sensible folder structure can go a long way.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Your Files, Not Our Business.",
+    "description": "We build the tool. You keep control of the content.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Independence Looks Good on a Mac.",
+    "description": "No compulsory platform membership required.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "No Digital Landlord.",
+    "description": "Your own folders are a perfectly good place to live.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Made to Work Offline.",
+    "description": "Because your photographs do not stop existing without Wi-Fi.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Less Cloud Dependency.",
+    "description": "More confidence that your files are where you left them.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "A Small App with Boundaries.",
+    "description": "It has no interest in building a profile of your holiday snaps.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Privacy by Leaving Things Alone.",
+    "description": "Sometimes the best data policy is not collecting the data.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "A Little Software Sovereignty.",
+    "description": "You decide where your files go and what happens to them.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "No Mandatory Login Dance.",
+    "description": "Open the application and get on with the job.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Keep the Keys.",
+    "description": "Your photo archive should not depend on someone else’s business plan.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Offline Is Not a Failure Mode.",
+    "description": "It is a perfectly reasonable way to work.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "The Internet Can Have a Day Off.",
+    "description": "Your local photo workflow will manage just fine.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Free to Leave. Free to Stay.",
+    "description": "Ordinary files and folders do not lock you into a platform.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Small Tools. Open Doors.",
+    "description": "A useful workflow should not end in a walled garden.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "No Data Harvest, Just Harvest Photos.",
+    "description": "Autumn colours belong in your collection, not in our analytics.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Your Archive Has an Address.",
+    "description": "It is the folder you chose, not a mysterious place in the cloud.",
+    "category": "Digital independence"
+  },
+  {
+    "title": "Find the Frame, Not the File.",
+    "description": "Less searching through folders, more enjoying your photographs.",
+    "category": "Photography"
+  },
+  {
+    "title": "Shoot First. Sort Sensibly.",
+    "description": "A little organisation after the shutter makes life easier later.",
+    "category": "Photography"
+  },
+  {
+    "title": "The Best Photo Is the One You Can Find.",
+    "description": "Give your archive a structure you can actually navigate.",
+    "category": "Photography"
+  },
+  {
+    "title": "RAW Talent. Tidy Folders.",
+    "description": "Serious image files deserve an uncomplicated workflow.",
+    "category": "Photography"
+  },
+  {
+    "title": "From Shutter to Structure.",
+    "description": "Keep the journey from camera to archive straightforward.",
+    "category": "Photography"
+  },
+  {
+    "title": "Every Frame Has a Date.",
+    "description": "Put capture-time metadata to good use.",
+    "category": "Photography"
+  },
+  {
+    "title": "Less Hunting. More Looking.",
+    "description": "Your photographs should be enjoyed, not excavated.",
+    "category": "Photography"
+  },
+  {
+    "title": "Keep the Moments. Lose the Mess.",
+    "description": "Make room for the pictures, not the filing chores.",
+    "category": "Photography"
+  },
+  {
+    "title": "A Home for Every Photograph.",
+    "description": "Even the experimental ones from last Tuesday.",
+    "category": "Photography"
+  },
+  {
+    "title": "Good Light. Better Organisation.",
+    "description": "The first is up to you. We can help with the second.",
+    "category": "Photography"
+  },
+  {
+    "title": "Your Archive, In Focus.",
+    "description": "A clear structure makes a growing collection easier to manage.",
+    "category": "Photography"
+  },
+  {
+    "title": "One More Shot. One Less Chore.",
+    "description": "Let simple tools handle the repetitive bits.",
+    "category": "Photography"
+  },
+  {
+    "title": "The Camera Did Its Part.",
+    "description": "Now give the files somewhere sensible to go.",
+    "category": "Photography"
+  },
+  {
+    "title": "Keep the Originals Close.",
+    "description": "Work with the photographs you have, where you keep them.",
+    "category": "Photography"
+  },
+  {
+    "title": "A Thousand Pictures, One Plan.",
+    "description": "An orderly archive makes large collections feel manageable.",
+    "category": "Photography"
+  },
+  {
+    "title": "The Joy Is in the Image.",
+    "description": "Not in remembering which folder you used in 2022.",
+    "category": "Photography"
+  },
+  {
+    "title": "Make Space for the Next Shoot.",
+    "description": "Spend less time tidying up after the last one.",
+    "category": "Photography"
+  },
+  {
+    "title": "Every Picture Has a Place.",
+    "description": "Even the ones that will never make the final selection.",
+    "category": "Photography"
+  },
+  {
+    "title": "A Little Order Behind the Lens.",
+    "description": "Good photography deserves a workflow that stays out of the way.",
+    "category": "Photography"
+  },
+  {
+    "title": "Your Photos Are Not Lost.",
+    "description": "They are merely waiting for a better filing arrangement.",
+    "category": "Photography"
+  },
+  {
     "title": "Less clutter. More creativity.",
-    "description": "Spend less time organizing and more time creating."
+    "description": "Spend less time organizing and more time creating.",
+    "category": "LPF essentials"
   },
   {
     "title": "Your photos. Your way.",
-    "description": "A simpler way to keep your photo collection organized."
+    "description": "A simpler way to keep your photo collection organized.",
+    "category": "LPF essentials"
   },
   {
     "title": "Small tools. Big difference.",
-    "description": "Thoughtfully designed utilities for everyday tasks."
+    "description": "Thoughtfully designed utilities for everyday tasks.",
+    "category": "LPF essentials"
   },
   {
     "title": "Keep it simple.",
-    "description": "Good software should make life easier."
+    "description": "Good software should make life easier.",
+    "category": "LPF essentials"
   },
   {
     "title": "Focus on what matters.",
-    "description": "Leave the repetitive work to the software."
+    "description": "Leave the repetitive work to the software.",
+    "category": "LPF essentials"
   },
   {
     "title": "Made for the Mac.",
-    "description": "Simple, useful tools that feel right at home."
+    "description": "Simple, useful tools that feel right at home.",
+    "category": "LPF essentials"
   }
 ]
