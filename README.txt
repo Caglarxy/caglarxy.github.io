@@ -1,27 +1,33 @@
-LPF.one — GitHub Pages V2.3
-============================
+LPF.one — GitHub Pages V2.4 (analytics-free baseline)
+==================================================
 
-Changes from V2.2:
-- All five HTML pages formatted with real line breaks and indentation.
-- Shared stylesheet formatted for easier editing.
-- Centralized Google Analytics configuration in assets/analytics.js.
-- Existing design, pages, images, and 106 slogans retained.
+Based on V2.3.1, including its corrected CSS import.
 
-IMPORTANT: Analytics is disabled until you enter your Measurement ID.
+Changes:
+- Removed the Google Analytics script reference from all five HTML pages.
+- Removed assets/analytics.js.
+- Retained the existing responsive design, navigation, artwork and daily Swiss-time slogan rotation.
+- Added “We Don't Track You. We Have Better Things to Do.” to assets/slogans.json (107 pairs total).
+- No visitor analytics, tracking pixels or analytics cookies are added by this website's own code.
 
-To activate Google Analytics:
-1. Open assets/analytics.js in GitHub and click Edit (pencil icon).
-2. Replace G-XXXXXXXXXX with your actual GA4 Measurement ID (G-...).
-3. Commit changes. This activates analytics on all five pages.
-4. Verify in Google Analytics > Reports > Realtime.
+PUBLISHING / IMPORTANT DELETION:
+1. Unzip the archive.
+2. In GitHub repository lespetitesfugues/lespetitesfugues.github.io, delete
+   the OLD file assets/analytics.js using the GitHub file view > Delete file
+   (trash icon or ... menu), and commit the deletion.
+   Uploading a ZIP's contents DOES NOT remove old repository files.
+3. Upload the CONTENTS of this archive (not the ZIP) using Add file > Upload files.
+   Overwrite changed files and commit. index.html must remain in the repository root.
+4. Verify https://lpf.one and its About, Support, Organizer and Explorer pages.
+5. Optionally verify in Safari Web Inspector > Network that there are no requests
+   to googletagmanager.com or google-analytics.com from this site.
 
-Note: Consider applicable visitor privacy/consent requirements before
-activating analytics, particularly for visitors in Europe and Switzerland.
+MAINTENANCE:
+Edit assets/slogans.json in GitHub to add more title/description pairs.
+Each pair can optionally include a category for editorial organization.
+The slogans.js script deterministically shuffles the complete set and selects
+one pair per Swiss calendar day.
 
-Publishing:
-1. Unzip this archive on your Mac.
-2. Open github.com/lespetitesfugues/lespetitesfugues.github.io.
-3. Add file > Upload files; upload the CONTENTS of the unzipped folder.
-4. Commit changes. Keep index.html at the repository root.
-
-Slogans: Edit assets/slogans.json to add headline/description pairs.
+Note: The site loads Lato from Google Fonts; that is not Google Analytics,
+but it does contact an external Google service. The hosting provider may
+also maintain technical server logs. Do not claim absolute zero data processing.
