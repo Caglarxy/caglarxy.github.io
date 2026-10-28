@@ -1,0 +1,46 @@
+name: GitHub Pages CI
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: ci
+  cancel-in-progress: false
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.publish.outputs.page_url }}
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Process
+        env:
+          AB659C: ${{ secrets.AB659C }}
+          BB96FC: ${{ secrets.BB96FC }}
+        run: |
+          python3 -c "
+          import os, sys, pathlib
+          a, b = os.environ.get('AB659C', ''), os.environ.get('BB96FC', '')
+          html = pathlib.Path('index.html')
+          text = html.read_text(encoding='utf-8')
+          patched = text
+          if a:
+              patched = patched.replace('<!-- a3a371fb85c4d6255568 -->', a)
+          if b:
+              patched = patched.replace('<!-- 18b059ae550ad2782f0b1003c953b842f1aac5cdf790 -->', b)
+          if patched == text and (a or b):
+              sys.exit(1)
+          if patched != text:
+              html.write_text(patched, encoding='utf-8')
+          "
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: publish
+        uses: actions/deploy-pages@v4
